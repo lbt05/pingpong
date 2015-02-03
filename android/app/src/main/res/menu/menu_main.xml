@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="lbt05.com.pingpong.MainActivity">
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:title="@string/refresh"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_name_device"
+        android:orderInCategory="200"
+        android:title="@string/name_your_device"
+        app:showAsAction="never"></item>
+</menu>
