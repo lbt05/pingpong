@@ -1,0 +1,4 @@
+android/build/*
+*.class
+*.apk
+*.ap_
